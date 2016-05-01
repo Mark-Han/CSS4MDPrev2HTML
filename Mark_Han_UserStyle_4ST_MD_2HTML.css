@@ -25,7 +25,7 @@ body
 }
 
 body .markdown-body {
-  padding: 105px 45px 45px;
+  padding: 105px 45px;/*padding adjusted，top=bottum=105;left=right=45*/
 
   /*border: 1px dashed #3C78C2;solid #ddd 改为dashed #3C78C227 Apr., 2016*/
 
@@ -90,7 +90,7 @@ pre {
 .markdown-body code,
 .markdown-body kbd,
 .markdown-body pre {
-  font-family: monospace, monospace;
+  font-family: "Microsoft Yahei", "Segoe UI";
   font-size: 1em;
 }
 
@@ -221,7 +221,7 @@ pre {
 }
 
 .markdown-body code {
-  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-family: "Microsoft Yahei", "Segoe UI";
   font-size: 12px;
 }
 
