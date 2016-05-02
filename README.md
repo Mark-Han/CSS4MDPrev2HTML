@@ -2,8 +2,8 @@
 > control the default html style built from MarkdownPreview in Sublime Text 2
 
 ## To do this, you need
-first modify the `user setting file` of `Markdown Preview`
 
+first modify the `user setting file` of `Markdown Preview`
 ![setting1](http://upload-images.jianshu.io/upload_images/1957089-70be46ef626dd153.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![setting2](http://upload-images.jianshu.io/upload_images/1957089-c30a46cb8cf4ebb0.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
