@@ -23,6 +23,7 @@ body
       background-color: #f0f0f0;
       /*background-image: url("http://www.transparenttextures.com/patterns/cartographer.png");*/
       
+      
   }
 
   body .markdown-body {
@@ -30,7 +31,7 @@ body
       /*border: 1px dashed #3C78C2;solid #ddd 改为dashed #3C78C227 Apr., 2016*/
       /*border-radius: 50px;3px改为5px 27 Apr., 2016*/
       word-wrap: break-word;
-      /*background-color: #f0f0f0;添加内容区背景色*/
+      background-color: #f0f0f0;添加内容区背景色
       /*box-shadow:0px -3px 18px #ADBDC6;*/
       /*box-shadow: inset, 4px 0 0 rgba(102, 128, 153, 0.05) ;*/
       /*添加内容区阴影*/
